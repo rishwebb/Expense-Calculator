@@ -39,7 +39,7 @@ Since this is a single-page app, no install is required.
 
 1. Clone this repository.
 2. Open this file in your browser:
-   - `/home/runner/work/Expense-Calculator/Expense-Calculator/index.html`
+   - `./index.html`
 
 Or host it quickly with any static server.
 
